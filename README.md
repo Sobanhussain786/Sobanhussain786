@@ -1,4 +1,4 @@
-<img align="right" width="300" src="IMG_20251225_173700[1].jpg">
+<img align="right" width="300" src="https://github.com/Sobanhussain786/Sobanhussain786/blob/main/IMG_20251225_173700%5B1%5D.jpg">
 
 ## Assalam-o-Alaikum   👋 I'm Soban Muhammad Hussain 
 ## A passionate frontend developer from Pakistan
