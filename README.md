@@ -19,7 +19,7 @@
 <a href="https://facebook.com/SobhanHussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/sobhan_vayani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
-### 🛠 Languages and Tools:
+ 🛠 **Languages and Tools:**
 <p align="left"> 
   <img src="images.png" alt="html5" width="40" height="40"/>
   <img src="css3.PNG" alt="css3" width="40" height="40"/>
@@ -29,7 +29,5 @@
   <img src="firebase.PNG" alt="firebase" width="40" height="40"/>
 </p>
 
-### 📊 GitHub Stats:
-![Soban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sobanhussain786&show_icons=true&theme=radical)
 
 - 
