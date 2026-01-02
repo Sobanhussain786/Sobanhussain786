@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://github.com/Sobanhussain786/Sobanhussain786/blob/main/IMG_20251225_173700%5B1%5D.jpg" style="border-radius: 20px; border: 2px solid #ddd;" width: 50%; height:50%>
+  <img width="300" src="https://lh3.googleusercontent.com/gg-dl/ABS2GSm70AqLgnGKx2O5ONBJ_3i8NY9Jc6cmNfz9tg_FMjdcogo_V77194-sO4OFhHW-RvrDCAOPKGcAROvQ9w3Vvn8dozcfMWO8t_0fEms6YJy6V8-nMhV_P_SQnwzVHlqzIl-XJbU9pmDovR5OM1GSJWLJuDS9JVlPYgyHzc55UYyd2tqj=s1024-rj" style="border-radius: 20px; border: 2px solid #ddd;" width: 50%; height:50%>
 </p>
 
 <h2 align="center">Assalam-o-Alaikum 👋 I'm Soban Muhammad Hussain</h2>
