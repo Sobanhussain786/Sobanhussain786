@@ -36,7 +36,7 @@
 <a href="https://facebook.com/SobhanHussain" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/></a>
 
-<a href="https://instagram.com/SobhanHussain" target="blank">
+<a href="https://instagram.com/sobhan_vayani" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
 </p>
 
