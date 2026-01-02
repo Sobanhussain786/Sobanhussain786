@@ -1,7 +1,7 @@
 <p align="center">
-  <img  src="https://github.com/Sobanhussain786/Sobanhussain786/blob/main/IMG_20251225_173700%5B1%5D.jpg" style="border-radius: 50%; >
+  <img width="250"  src="https://github.com/Sobanhussain786/Sobanhussain786/blob/main/IMG_20251225_173700%5B1%5D.jpg" style="border-radius: 50%; >
 </p>
-<h2 align="center">Assalam-o-Alaikum 👋 I'm Soban Muhammad Hussain</h2>
+<h2 align="center">Assalam-o-Alaikum 👋 I'm Soban Muhammad Hussain</h2> <br> <br>
 <img src="https://camo.githubusercontent.com/c1dd3cb9a43960df7ca7d7c64b1dcfbf10ca6028a07f327d62ad54d04340c749/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d7568616d6d61646861737373616e32303036266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174">
 
 <p align="center">
