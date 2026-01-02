@@ -6,13 +6,12 @@
 
 <h2 align="center">Assalam-o-Alaikum 👋 I'm Soban Muhammad Hussain</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sobanhussain786&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="left">
+ <img src="https://camo.githubusercontent.com/c1dd3cb9a43960df7ca7d7c64b1dcfbf10ca6028a07f327d62ad54d04340c749/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d7568616d6d61646861737373616e32303036266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174">
 </p>
 
 <p align="center">
-  I'm a self-taught <b>Frontend Developer</b> with a sharp eye for clean UI and responsive designs.<br>
-  Currently, I'm deep-diving into the <b>MERN Stack</b> to build full-stack applications.
+  I'm a self-taught <b>Frontend Developer</b> with a sharp eye for clean UI and responsive designs.  Currently, I'm deep-diving into the <b>MERN Stack</b> to build full-stack applications.
 </p>
 
 ---
@@ -27,7 +26,7 @@
 ---
 
 ### 🌐 Connect with me:
-<p align="center">
+<p align="left">
 <a href="https://wa.me/92302192411" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40"/></a>
 
@@ -41,11 +40,11 @@
 ---
 
 ### 🛠 Tech Stack:
-<p align="center">
-  <img src="images.png" width="45"/>
-  <img src="css3.PNG" width="45"/>
-  <img src="js.PNG" width="45"/>
-  <img src="bootstrap.PNG" width="45"/>
-  <img src="reactjs.PNG" width="45"/>
-  <img src="firebase.PNG" width="45"/>
+<p align="left"> 
+  <img src="images.png" title="HTML5" width="45" height="45"/>
+  <img src="css3.PNG" title="CSS3" width="45" height="45"/>
+  <img src="js.PNG" title="JavaScript" width="45" height="45"/>
+  <img src="bootstrap.PNG" title="Bootstrap" width="45" height="45"/>
+  <img src="reactjs.PNG" title="ReactJS" width="45" height="45"/>
+  <img src="firebase.PNG" title="Firebase" width="45" height="45"/>
 </p>
