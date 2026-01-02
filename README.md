@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://github.com/Sobanhussain786/Sobanhussain786/blob/main/IMG_20251225_173700%5B1%5D.jpg" style="border-radius: 20px; border: 2px solid #ddd;">
+  <img width="300" src="https://github.com/Sobanhussain786/Sobanhussain786/blob/main/IMG_20251225_173700%5B1%5D.jpg" style="border-radius: 20px; border: 2px solid #ddd;" width: 50%; height:50%>
 </p>
 
 <h2 align="center">Assalam-o-Alaikum 👋 I'm Soban Muhammad Hussain</h2>
